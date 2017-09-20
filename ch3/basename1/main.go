@@ -31,7 +31,7 @@ func main() {
 			fmt.Println(basename(text))
 		}
 	}
-	// NOTE: ignoring potential errors from input.Err()
+	// NOTE: ignoring potential errogirs from input.Err()
 }
 
 //!+
